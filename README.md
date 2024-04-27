@@ -9,7 +9,7 @@ Calculate the minimum, maximum and median beats per minute and the latest data t
 measurement in the day) for each day. Output should look like this
 
 Step 1:
-Install VS Code and Node JS and Git
+Install VS Code,Node JS and Git
 Step 2:-
 Create folder and import the code
 Step 3:-
